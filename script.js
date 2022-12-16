@@ -1,5 +1,3 @@
-// Come fare una divisione prendendo i valori in un array e un for javascript
-
 const display = document.querySelector("#display");
 const calc = document.querySelector("#calc");
 const canc = document.querySelector("#canc");
